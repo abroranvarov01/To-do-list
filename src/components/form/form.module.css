@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.add {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #00ff00;
+  cursor: pointer;
+  font-weight: 700;
+  color: #fff;
+}
+.input {
+  color: #fff;
+  flex-grow: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: transparent;
+  margin-right: 10px;
+}
